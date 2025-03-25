@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 made a file here x=2
+=======
+made a file here x=1
+>>>>>>> branch1
